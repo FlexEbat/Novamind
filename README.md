@@ -43,8 +43,8 @@
 | 🔗 Backlinks | Backlinks and outlinks support |
 | 🧠 Relationship graph | Notes graph, relationship visualization |
 | 🎛 WYSIWYG | Visual editor mode with Markdown sync |
-| 🔌 Plugins | API for community extensions |
 | 🧩 Block system | `/`-insert, drag-n-drop blocks, typing |
+| Translation of the program into C++ |
 
 # Unresolved issues at the moment
 - Fix creating/editing/deleting notes. Currently, you can only create one note, it cannot be deleted, and you cannot create another note at the same time
