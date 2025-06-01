@@ -50,3 +50,10 @@
 - Fix search
 - Finish the additional panel while in a note
 - Change/Fix menu panel
+
+# Install and Run
+```
+pip install flet pyyaml
+python main.py
+```
+
