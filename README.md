@@ -1,3 +1,5 @@
+⚠️This is an alpha version. Bugs are possible, not all functionality is complete. Use for review and testing.⚠️
+
 **NovaMind** is a knowledge management and note-taking desktop application inspired by **Obsidian** and **Notion**, built in pure **Python** using **Flet**, a cross-platform UI framework based on Flutter.
 
 # NovaMind Philosophy
