@@ -33,7 +33,7 @@
 - Simple, clean, responsive interface.
 - Smooth interactions and visual readability.
 
-**Future plan**
+# **Future plan**
 
 | Category | Plans |
 | ----------------- | ---------------------------------------------------- |
