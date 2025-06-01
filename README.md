@@ -1,5 +1,5 @@
 **NovaMind** is a knowledge management and note-taking desktop application inspired by **Obsidian** and **Notion**, built in pure **Python** using **Flet**, a cross-platform UI framework based on Flutter.
----
+
 # NovaMind Philosophy
 - **Markdown as a basis.** All notes are regular `.md` files with front matter in YAML.
 - **Local storage.** You own your data. All files are on disk, no clouds.
@@ -7,7 +7,6 @@
 - **Block system.** Inside a note, everything is blocks: headings, tags, metadata, markdown.
 - **Minimalism + power.** Clean interface, no distracting elements. Only the idea and its form.
 
---
 # Key features
 1. **Navigation**
 - Sidebar with menu: **Projects**, **Notes**, **Schedule**, **Diary**.
@@ -34,7 +33,6 @@
 - Simple, clean, responsive interface.
 - Smooth interactions and visual readability.
 
---
 **Future plan**
 
 | Category | Plans |
@@ -46,7 +44,6 @@
 | 🔌 Plugins | API for community extensions |
 | 🧩 Block system | `/`-insert, drag-n-drop blocks, typing |
 
---
 # Unresolved issues at the moment
 - Fix creating/editing/deleting notes. Currently, you can only create one note, it cannot be deleted, and you cannot create another note at the same time
 - Fix top bar
